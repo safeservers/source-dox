@@ -30,7 +30,8 @@
           
 
           <?php
-                     $full_path = "http://ty2sxzmjrkxojl6b.onion/";
+                    // ENTER YOUR ONION NAME AS FULL PATH WITH TRAILING /
+		     $full_path = "http://YOUR-ONION-HERE.onion/";
                      $number_of_uploads = 1;
                      $allowed_file_types = array("rar", "mp3", "psd", "zip", "html", "csv", "sql", "txt", "pdf", "jpg", "png", "jpeg", "gif", "css", "js", "mp4", "ico");
                      $upload_folder = "./file/";
@@ -130,7 +131,7 @@
       
 </div> <!-- /form -->
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-
+// ADD YOUR ONION HERE IF YOU WISH NOT NEEDED FOR TOR
         <script src="https://your.domain.com/js/index.js"></script>
 
     
