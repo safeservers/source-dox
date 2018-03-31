@@ -12,7 +12,7 @@ Copy the files to your webserver root directory
 Edit the onion site name in index.php line 90 to your onion url
 Deploy and run.
 -----------------------------------------------------------------------------------
-
+```
 Live demo:
 ----------
 
